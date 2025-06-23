@@ -19,4 +19,4 @@ Class quizzes including multiple-choice questions (MCQs), text-based queries, an
 🚀 Self-Learning Work:
 Additional experiments, mini-projects, and case-based queries designed by me for deeper understanding and confidence building.
 
-💡 Skills Cover…
+💡 Skills Cover.
